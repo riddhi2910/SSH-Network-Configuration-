@@ -11,6 +11,7 @@ import re
 
 #Checking IP address file and content validity
 def ip_is_valid():
+	# variable declaration
     check = False
     global ip_list
     
